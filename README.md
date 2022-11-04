@@ -6,9 +6,11 @@ Olá, eu sou o Thiago Vinicius
 
 -Jogar videogame
 
--Estudar
+-Praticar esportes
 
 -Filmes e séries
+
+-Aprender coisas novas
 
 ## Atualmente estudando
 
