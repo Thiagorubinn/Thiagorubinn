@@ -12,17 +12,18 @@ Olá, eu sou o Thiago Vinicius
 
 -Aprender coisas novas
 
-## Atualmente estudando
+## Tecnologias 
 
--Javascript
+- HTML
+- CSS
+- JavaScript
+- Angular
+- Python
 
--Python
-
--Inglês
 
 ## Meus contatos 
 
-- LinkedIn https://www.linkedin.com/in/thiago-rubin-a6a147108/
+- LinkedIn https://www.linkedin.com/in/thiago-rubin/
 - Github @Thiagorubinn
-- Instagram @thivisr
+- Instagram @thiagorubinn
 - Email rubinthiago@gmail.com
