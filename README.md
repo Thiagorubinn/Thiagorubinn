@@ -17,6 +17,7 @@ Olá, eu sou o Thiago Vinicius
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Angular
 - Python
 
