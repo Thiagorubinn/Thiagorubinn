@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Thiago Vinicius 
+Olá, eu sou o Thiago Rubin 
 
 ## Meus hobbies
 
