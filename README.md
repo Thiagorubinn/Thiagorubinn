@@ -19,7 +19,8 @@ Olá, eu sou o Thiago Rubin
 - JavaScript
 - TypeScript
 - Angular
-- Java
+- React
+- Node
 - AWS
 
 
