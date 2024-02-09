@@ -29,5 +29,5 @@ Olá, eu sou o Thiago Rubin
 
 - LinkedIn https://www.linkedin.com/in/thiago-rubin/
 - Github @Thiagorubinn
-- Instagram @thiagorubinn
+- Instagram @thrubin
 - Email rubinthiago@gmail.com
