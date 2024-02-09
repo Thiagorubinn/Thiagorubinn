@@ -21,7 +21,8 @@ Olá, eu sou o Thiago Rubin
 - Angular
 - React
 - Node
-- AWS
+- Azure
+- Inteligência Artificial
 
 
 ## Meus contatos 
