@@ -23,6 +23,7 @@ Olá, eu sou o Thiago Rubin
 - Node
 - Azure
 - Inteligência Artificial
+- -ServiceNow
 
 
 ## Meus contatos 
