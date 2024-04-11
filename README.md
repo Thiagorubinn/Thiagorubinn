@@ -17,11 +17,10 @@ Olá, eu sou o Thiago Rubin
 - HTML
 - CSS
 - JavaScript
-- TypeScript
 - Angular
 - React
 - Node
-- Azure
+- Ruby
 - Inteligência Artificial
 - -ServiceNow
 
